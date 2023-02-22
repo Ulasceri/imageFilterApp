@@ -1,5 +1,4 @@
-![Capture1](https://user-images.githubusercontent.com/106450848/220617970-39dd15f5-2c6d-4e95-a1e8-36471e6e17e6.PNG) ![Capture3](https://user-images.githubusercontent.com/106450848/220617985-e875a15a-8f8a-48d0-bd71-f890b8b73fa4.PNG)
-
+![sa](https://user-images.githubusercontent.com/106450848/220619098-ef301611-93f7-485e-966e-542d19e4ef30.png)
 
 # Fotoğraf filtre ekleme uygulaması ; 
 ## 1. MVVM Architecture
