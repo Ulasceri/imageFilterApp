@@ -1,4 +1,5 @@
-![sa](https://user-images.githubusercontent.com/106450848/220619098-ef301611-93f7-485e-966e-542d19e4ef30.png)
+![Screeeenshoots](https://user-images.githubusercontent.com/106450848/220632121-009aa1dd-a2ca-4fa7-b229-8b08d9d9e27c.png)
+
 
 # Fotoğraf filtre ekleme uygulaması ; 
 ## 1. MVVM Architecture
@@ -11,5 +12,6 @@
 ## Filtreleme işlemi yaparken seçtiğiniz fotoğrafa uyguladığınız filtre ile orjinal fotoğraf arasında ki farkı fotoğrafa basılı tutarak görebilirsiniz.
 ## Filtrelediğiniz görsel local olarak telefonunuza inmiyor. App'in içerisinde kaydediliyor paylaş butonu sayesinde istediğiniz yerde paylaşabilir veya telefonunuza indirebilirsiniz.
 
-## Download Link : https://dosya.co/vsz43xtrxe16/app-debug.apk.html
+## [Download Apk](https://dosya.co/25pwt72ita4v/image-filter.apk.html)
+
 
