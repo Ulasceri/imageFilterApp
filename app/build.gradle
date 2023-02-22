@@ -8,6 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
+        signingConfig signingConfigs.debug
         applicationId "com.example.imagefilterapp"
         minSdk 21
         targetSdk 33

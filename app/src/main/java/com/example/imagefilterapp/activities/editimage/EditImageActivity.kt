@@ -86,10 +86,10 @@ class EditImageActivity : AppCompatActivity(), ImageFilterListener  {
             val saveFilteredImageDataState = it ?: return@observe
             if (saveFilteredImageDataState.isLoading) {
                 binding.imageSave.visibility = View.GONE
-                binding.savingProgressBar.visibility = View.GONE
+                binding.savingProgressBar.visibility = View.VISIBLE
             } else {
                 binding.savingProgressBar.visibility = View.GONE
-                binding.imageSave.visibility = View.GONE
+                binding.imageSave.visibility = View.VISIBLE
             }
             saveFilteredImageDataState.uri?.let { savedImageUri ->
                 Intent(
