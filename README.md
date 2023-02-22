@@ -1,6 +1,6 @@
 ![Screeeenshoots](https://user-images.githubusercontent.com/106450848/220632121-009aa1dd-a2ca-4fa7-b229-8b08d9d9e27c.png)
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ulasceri.visitor-badge&left_color=red&right_color=green) 
 # Fotoğraf filtre ekleme uygulaması ; 
 ## 1. MVVM Architecture
 ## 2. View Binding
