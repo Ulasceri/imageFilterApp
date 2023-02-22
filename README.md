@@ -1,4 +1,4 @@
-![waewqreqwrqwrf](https://user-images.githubusercontent.com/106450848/220631861-36d2ba1d-487f-4f50-a35c-deeb5462507b.png)
+![Screeeenshoots](https://user-images.githubusercontent.com/106450848/220632121-009aa1dd-a2ca-4fa7-b229-8b08d9d9e27c.png)
 
 
 # Fotoğraf filtre ekleme uygulaması ; 
