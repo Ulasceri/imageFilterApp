@@ -1,4 +1,5 @@
-![sa](https://user-images.githubusercontent.com/106450848/220619098-ef301611-93f7-485e-966e-542d19e4ef30.png)
+![waewqreqwrqwrf](https://user-images.githubusercontent.com/106450848/220631861-36d2ba1d-487f-4f50-a35c-deeb5462507b.png)
+
 
 # Fotoğraf filtre ekleme uygulaması ; 
 ## 1. MVVM Architecture
