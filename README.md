@@ -1,3 +1,6 @@
+![Capture1](https://user-images.githubusercontent.com/106450848/220617970-39dd15f5-2c6d-4e95-a1e8-36471e6e17e6.PNG)  ![Capture3](https://user-images.githubusercontent.com/106450848/220617985-e875a15a-8f8a-48d0-bd71-f890b8b73fa4.PNG)
+
+
 # Fotoğraf filtre ekleme uygulaması ; 
 ## 1. MVVM Architecture
 ## 2. View Binding
