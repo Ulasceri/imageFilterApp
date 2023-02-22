@@ -2,15 +2,17 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ulasceri.visitor-badge&left_color=red&right_color=green) 
 # Fotoğraf filtre ekleme uygulaması ; 
-## 1. MVVM Architecture
-## 2. View Binding
-## 3. GPU Image
-## 4. Material Design
-## 5. Koin - Dependency Injection
-## Bileşenler kullanılarak tasarlanmış ve kodlanmıştır.
-## Uygulama içerisinde galerinizden istediğiniz fotoğrafı seçip, filtreleyip, daha sonra uygulamayı kullanarak filtrelediğiniz fotoğrafı Edit Image ekranında görüntülüyebiliyorsunuz.
-## Filtreleme işlemi yaparken seçtiğiniz fotoğrafa uyguladığınız filtre ile orjinal fotoğraf arasında ki farkı fotoğrafa basılı tutarak görebilirsiniz.
-## Filtrelediğiniz görsel local olarak telefonunuza inmiyor. App'in içerisinde kaydediliyor paylaş butonu sayesinde istediğiniz yerde paylaşabilir veya telefonunuza indirebilirsiniz.
+## Proje Özellikleri
+- MVVM Architecture
+- View Binding
+- GPU Image
+- Material Design
+- Koin - Dependency Injection
+
+### Bileşenler kullanılarak tasarlanmış ve kodlanmıştır.
+### Uygulama içerisinde galerinizden istediğiniz fotoğrafı seçip, filtreleyip, daha sonra uygulamayı kullanarak filtrelediğiniz fotoğrafı Edit Image ekranında görüntülüyebiliyorsunuz.
+### Filtreleme işlemi yaparken seçtiğiniz fotoğrafa uyguladığınız filtre ile orjinal fotoğraf arasında ki farkı fotoğrafa basılı tutarak görebilirsiniz.
+### Filtrelediğiniz görsel local olarak telefonunuza inmiyor. App'in içerisinde kaydediliyor paylaş butonu sayesinde istediğiniz yerde paylaşabilir veya telefonunuza indirebilirsiniz.
 
 ## [Download Apk](https://dosya.co/25pwt72ita4v/image-filter.apk.html)
 
